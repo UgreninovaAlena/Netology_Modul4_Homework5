@@ -1,0 +1,9 @@
+Ссылка на домашнее задание:
+https://github.com/netology-code/py-homeworks-advanced/tree/master/5.Regexp
+
+Ссылка на репозиторий GitHub:
+https://github.com/UgreninovaAlena/Netology_Modul4_Homework5.git
+
+ДОПОЛНИТЕЛЬНО:
+Ссылка на сервис, позволяющий наглядно писать регулярки:
+https://regex101.com/
